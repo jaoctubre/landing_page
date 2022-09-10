@@ -1,1 +1,1 @@
-# landing_page
+This is a simple project taken from The Odin Project as a practice for basic CSS and HTML for web development.
